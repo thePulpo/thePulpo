@@ -10,6 +10,8 @@ Here's what we're coding with:
 
 ![Your Repository's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thePulpo&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thePulpo&layout=donut-vertical)](https://github.com/thePulpo/thePulpo)
+
 ## 🏆 GitHub Trophies
 
 Look at all these shiny trophies:
