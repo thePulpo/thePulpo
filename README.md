@@ -2,7 +2,7 @@
 
 Check out how this project is doing:
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=thePulpo&show_icons=true&theme=radical&include_all_commits=true&count_private=true")
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thePulpo)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 Most Used Languages
 
